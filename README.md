@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**Bastien-Grosse/Bastien-Grosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  I’m currently a PhD student at Laboratoire de Mathématiques Jean Leray (Nantes University, France).
+-  My research focuses on the numerical analysis of kinetic PDEs and plasma modeling.
 
-Here are some ideas to get you started:
+### Contact :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Laboratoire de Mathématiques Jean Leray \
+UFR Sciences et Techniques Bâtiment de Mathématiques (n° 10) 2 rue de la Houssinière \
+BP 92208 F-44322 Nantes Cedex \
+https://www.math.sciences.univ-nantes.fr 
+
+
+# Publications
