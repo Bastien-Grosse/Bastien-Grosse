@@ -12,3 +12,7 @@ https://www.math.sciences.univ-nantes.fr
 
 
 # Publications
+
+1. [Approximation by orthonormal polynomials associated with even exponential weights](https://hal.science/hal-04830079) \
+   B. Grosse \
+   To be published 
