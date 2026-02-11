@@ -22,5 +22,5 @@ https://www.math.sciences.univ-nantes.fr
    To be published
    
 4. [The plasma-wall dynamic : wellposedness](https://hal.science/hal-05339127v2) \
-   B. Grosse and M. Badsi
+   B. Grosse and M. Badsi \
    To be published
