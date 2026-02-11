@@ -17,6 +17,10 @@ https://www.math.sciences.univ-nantes.fr
    B. Grosse \
    To be published
 
-2.  [Fully spectral scheme for the linear BGK equation on the whole space](https://hal.science/hal-04954144v2) \
+2. [Fully spectral scheme for the linear BGK equation on the whole space](https://hal.science/hal-04954144v2) \
    B. Grosse \
+   To be published
+   
+4. [The plasma-wall dynamic : wellposedness](https://hal.science/hal-05339127v2) \
+   B. Grosse and M. Badsi
    To be published
