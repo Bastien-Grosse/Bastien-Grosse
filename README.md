@@ -17,7 +17,7 @@ https://www.math.sciences.univ-nantes.fr
    B. Grosse \
    Submitted, under revision
 
-2. [Fully spectral scheme for the linear BGK equation on the whole space](https://hal.science/hal-04954144v2) \
+2. [Fully spectral scheme for the linear BGK equation on the whole space](https://hal.science/hal-04954144v3) \
    B. Grosse \
    Submitted, under revision
    
