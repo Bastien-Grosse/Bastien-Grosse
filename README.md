@@ -21,6 +21,6 @@ https://www.math.sciences.univ-nantes.fr
    B. Grosse \
    Submitted, under revision
    
-4. [The plasma-wall dynamic : wellposedness](https://hal.science/hal-05339127v2) \
+4. [The plasma-wall dynamic : wellposedness](https://hal.science/hal-05339127) \
    B. Grosse and M. Badsi \
    Submitted, under revision
